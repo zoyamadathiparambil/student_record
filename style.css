@@ -1,0 +1,26 @@
+body{
+    background-image: url(./background.jpg);
+    background-repeat: no repeat;
+    background-size: 100%;
+    text-align: center;
+}
+div{
+    background-color: darkgrey;
+    opacity: 0.8;
+    margin-top: 50px;
+}
+label{
+    font-size: 25px;
+    color: darkblue;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    color: darkgreen;
+}
+span{
+    font-size: 25px;
+    color: darkmagenta;
+}
